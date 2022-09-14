@@ -238,6 +238,18 @@ ul li ul li a { transition: all 0.5s ease; }
 
 /* main para */
 
+#linkProd {
+    display: block;
+    background-color:aliceblue;
+    text-align: center;
+    font-size: 17px;
+    width: 100px;
+    height: auto;
+    padding: 2% 2% 2% 2%;
+    border:1.5px solid #000000;
+    border-radius: 20px;
+    margin-bottom: 2%;
+}
 .mainPara {
     width: 500px;
     padding-left: 20px;
