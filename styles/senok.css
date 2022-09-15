@@ -277,7 +277,7 @@ ul li ul li a { transition: all 0.5s ease; }
      background-color: transparent;
      padding-left: 60px;
      position: relative;
-     animation: slide 5s infinite;
+     animation: slide 6s infinite;
  }
 
  @keyframes slide {
